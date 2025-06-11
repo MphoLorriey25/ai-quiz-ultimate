@@ -19,7 +19,7 @@ Designed to be simple, responsive, and beautiful — no frameworks or backend re
 
 ## 🚀 Live Demo
 
-🔗 [Click here to play!](https://yourusername.github.io/ai-quiz-ultimate/)  
+🔗 [Click here to play!](https://mpholorriey25.github.io/ai-quiz-ultimate/)  
 
 
 
